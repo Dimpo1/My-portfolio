@@ -13,7 +13,7 @@ main {
 }
 
 h1 {
-  color: rgb(173, 171, 171);
+  color: black);
   font-size: 60px;
   text-align: center;
   font-family: "Moo Lah Lah", sans-serif;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-  color: goldenrod;
+  color: white;
   font-size: 40px;
   text-align: center;
   font-family: "Moo Lah Lah", sans-serif;
@@ -30,9 +30,9 @@ h2 {
 
 button {
   background-color: white;
-  color: goldenrod;
+  color: black;
   margin: 30px;
-  border: 3px dashed goldenrod;
+  border: 3px dashed black;
   border-radius: 40px;
   box-shadow: 5px 5px 5px rgb(117, 113, 113);
   padding: 20px;
@@ -42,7 +42,7 @@ button {
 
 a {
   text-decoration: none;
-  color: goldenrod;
+  color: black;
   font-family: monospace;
   /*font-weight: bold;*/
 }
@@ -52,7 +52,7 @@ p {
 }
 
 img {
-  border: 3px dashed goldenrod;
+  border: 3px dashed white;
   border-radius: 50%;
   padding: 10px;
   margin-top: 50px;
@@ -69,6 +69,7 @@ footer {
   text-align: center;
   margin: 50px;
   color: grey;
+  font-family: monospace;
 }
 
 .molle-regular-italic {
