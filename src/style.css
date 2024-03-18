@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-  color: whitesmoke;
+  color: black;
   font-size: 60px;
   text-align: center;
   font-family: "Moo Lah Lah", sans-serif;
@@ -47,14 +47,15 @@ button:hover {
 
 a {
   text-decoration: none;
-  color: rgb(235, 56, 86);
+  color: black;
   font-family: monospace;
   /*font-weight: bold;*/
 }
 
 a:hover {
   text-decoration: none;
-  color: white;
+  color: pink;
+  background-color: white;
   font-family: monospace;
 }
 
