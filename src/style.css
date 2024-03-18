@@ -40,11 +40,22 @@ button {
   font-size: 25px;
 }
 
+button:hover {
+  background-color: #fbe285;
+  transition: 125ms all ease-in-out;
+}
+
 a {
   text-decoration: none;
   color: rgb(235, 56, 86);
   font-family: monospace;
   /*font-weight: bold;*/
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+  font-family: monospace;
 }
 
 p {
