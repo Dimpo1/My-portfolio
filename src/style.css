@@ -1,8 +1,8 @@
 body {
-  background: radial-gradient(
-    circle at 1.2% 5%,
-    rgb(255, 94, 157) 34.7%,
-    rgb(255, 78, 6) 92.3%
+  background: linear-gradient(
+    110.4deg,
+    rgb(255, 196, 254) 9.6%,
+    rgb(251, 229, 123) 91%
   );
 }
 
@@ -21,11 +21,11 @@ h1 {
 }
 
 h2 {
-  color: white;
+  color: gainsboro;
   font-size: 60px;
   text-align: center;
   font-family: "Moo Lah Lah", sans-serif;
-  font-weight: 400;
+  font-weight: 450;
 }
 
 button {
