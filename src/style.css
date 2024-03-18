@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-  color: gainsboro;
+  color: whitesmoke;
   font-size: 60px;
   text-align: center;
   font-family: "Moo Lah Lah", sans-serif;
@@ -42,7 +42,7 @@ button {
 
 a {
   text-decoration: none;
-  color: rgb(255, 196, 254);
+  color: rgb(235, 56, 86);
   font-family: monospace;
   /*font-weight: bold;*/
 }
