@@ -1,5 +1,5 @@
 body {
-  background: burlywood;
+  background: #faf6e9;
 }
 
 main {
@@ -9,7 +9,7 @@ main {
 }
 
 h1 {
-  color: brown;
+  color: hotpink;
   font-size: 80px;
   text-align: center;
   font-family: "Moo Lah Lah", sans-serif;
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-  color: white;
+  color: grey;
   font-size: 60px;
   text-align: center;
   font-family: "Moo Lah Lah", sans-serif;
@@ -28,7 +28,7 @@ button {
   background-color: white;
   color: rgb(255, 196, 254);
   margin: 30px;
-  border: 3px dashed brown;
+  border: 3px dashed grey;
   border-radius: 40px;
   box-shadow: 5px 5px 5px rgb(117, 113, 113);
   padding: 20px;
@@ -37,21 +37,20 @@ button {
 }
 
 button:hover {
-  background-color: #fbe285;
+  background-color: #dfb4c9;
   transition: 125ms all ease-in-out;
 }
 
 a {
   text-decoration: none;
-  color: brown;
+  color: grey;
   font-family: monospace;
   /*font-weight: bold;*/
 }
 
 a:hover {
   text-decoration: none;
-  color: brown;
-  background-color: burlywood;
+  color: white;
   font-family: monospace;
 }
 
@@ -60,7 +59,7 @@ p {
 }
 
 img {
-  border: 3px dashed brown;
+  border: 3px dashed grey;
   border-radius: 50%;
   padding: 10px;
   margin-top: 50px;
